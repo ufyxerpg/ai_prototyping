@@ -1,0 +1,3 @@
+- front end on lovable 
+- integrations with OpenAPI
+- secrets management via supabase
