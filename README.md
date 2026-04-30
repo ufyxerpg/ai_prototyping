@@ -1,10 +1,10 @@
-# 🚀 Project Portfolio
+# 🚀 Portfolio
 
 A collection of prototype applications exploring GenAI, product design, and full-stack integrations.
 
 ---
 
-# 🧩 Project 1 — Slack Prototype (To-Do + Slash Commands)
+# 🧩 Study Project 1 — Slack Prototype (To-Do + Slash Commands)
 
 A lightweight Slack-inspired chat interface with task management and command-based interactions.
 
@@ -28,7 +28,7 @@ A lightweight Slack-inspired chat interface with task management and command-bas
 
 ---
 
-# 🧚 Project 2 — AI Fairy Tale Generator
+# 🧚Study Project 2 — AI Fairy Tale Generator
 
 A GenAI-powered application that creates personalized fairy tales based on user preferences.
 
